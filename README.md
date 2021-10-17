@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legend108" alt="legend108" /></a> </p>
 
-- 🔭 I’m currently working on **a mongoose wrapper named litemongo!**
+- 🔭 I’m currently working on **an organization, Memer Development, they make cool stuff, check em out :)**
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Mern Stack Development**
 
-- 💬 Ask me about **javascript, html, css**
+- 💬 Ask me about **nothing ;-;**
 
 - ⚡ Also i **am a boy :)**
 
