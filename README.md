@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legend108&show_icons=true&locale=en" alt="legend108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legend108&" alt="legend108" /></p>
+
+Currently https://discord.c99.nl/widget/theme-3/777236834064531467.png
