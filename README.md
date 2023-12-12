@@ -1,6 +1,6 @@
 <img src="https://discord.c99.nl/widget/theme-3/777236834064531467.png" />
 
-<h1 align="center">Hi 👋, I'm Legend108</h1>
+<h1 align="center">Hi 👋, I'm ZeroDeaths</h1>
 <h3 align="center">A passionate developer from india :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legend108&label=Profile%20views&color=0e75b6&style=flat" alt="legend108" /> </p>
